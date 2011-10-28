@@ -1,0 +1,3 @@
+
+let smartFunc arg = arg + "!"
+
